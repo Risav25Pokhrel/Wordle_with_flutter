@@ -1,16 +1,4 @@
-# wordle
+![Example_1](https://github.com/Risav25Pokhrel/Wordle_with_flutter/assets/103576193/1f7d4c87-adac-4c87-a46c-c1fbfaba5f5c)
 
-A new Flutter project.
+![Example_2](https://github.com/Risav25Pokhrel/Wordle_with_flutter/assets/103576193/e283eac6-48e7-4020-9446-30035768ac65)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
